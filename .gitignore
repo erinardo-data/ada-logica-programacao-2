@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv3.12/
+.ipynb_checkpoints/
+escola.json
+.c
+*.xlsx
+*.csv
+*.parquet
+.c
